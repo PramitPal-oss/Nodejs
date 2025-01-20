@@ -1,0 +1,16 @@
+{
+  "name": "simple-questions",
+  "version": "1.0.0",
+  "description": "Practise simple questions",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "format": "prettier --write .",
+    "start": "nodemon index.js"
+  },
+  "author": "Pramit Pal",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  }
+}
