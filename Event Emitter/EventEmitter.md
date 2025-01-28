@@ -6,7 +6,7 @@
 
 ### What is Event Emitter ? Why we use it ?
 
-Event Emitter is a class that allows you to create objects that can emit events and listen for those events. It is part of the Node.js events module and is widely used for implementing the observer pattern.
+Event Emitter is a class that allows you to create objects that can emit events and listen for those events. It is part of the Node.js events module and is widely used for implementing the observer pattern. An EventEmitter is a class in Node.js used to handle asynchronous events. It allows objects to emit events, which other parts of the application can listen for and respond to. Essentially, it facilitates event-driven programming, where actions are triggered by certain events
 
 **Key Functions:**
 
