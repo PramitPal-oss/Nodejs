@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "format": "prettier --write .",
-    "start": "nodemon index.js"
+    "start": "nodemon part2.js"
   },
   "author": "Pramit Pal",
   "license": "ISC",
