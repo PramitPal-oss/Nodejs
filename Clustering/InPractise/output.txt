@@ -1,0 +1,7 @@
+This is some text I want
+Got data from stdin: Pramit is a good boy
+ 
+Got data from stdin: He can Code well
+ 
+Got data from stdin: He can fuck well
+ 
